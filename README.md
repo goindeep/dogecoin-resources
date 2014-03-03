@@ -204,3 +204,4 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Alternative Donation Button] (http://www.dogets.com/)
 - [Dogecoin Exchange Rate Indicator](https://github.com/Dirrot/python-indicator-dogecoin-cryptsy-exchange-rate)
 - [Doge meme editor/marketplace](http://www.iwannabeyourdoge.com/)
+- [Wow So News] (http://www.wowsonews.com/)
